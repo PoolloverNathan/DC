@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gSg",
+        "gSg",
+        "ccc"
+    ],
+    "key": {
+        "g": { "item": "minecraft:glass" },
+        "S": { "item": "minecraft:smooth_stone" },
+        "c": { "item": "minecraft:copper_ingot" }
+    },
+    "result": {
+        "item": "jecalculation:item_calculator_math"
+    }
+}

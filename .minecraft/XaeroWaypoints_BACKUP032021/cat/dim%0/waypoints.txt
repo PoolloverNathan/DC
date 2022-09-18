@@ -1,0 +1,10 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type
+#
+waypoint:exploring cp:E:201:68:629:6:false:0:gui.xaero_default:false:0:0
+waypoint:Horses?:H:59:69:597:4:false:0:gui.xaero_default:false:0:0
+waypoint:y0 caving cp:Y0:-576:-60:396:9:false:0:gui.xaero_default:false:0:0
+waypoint:caving cp:C:-410:-44:402:0:false:0:gui.xaero_default:false:0:0
+waypoint:Dungeon 1:D1:-294:-23:369:7:false:0:gui.xaero_default:false:0:0
+waypoint:Bottom of Cave:C:-290:-1:394:13:false:0:gui.xaero_default:false:0:0
+waypoint:Home:H:-279:64:393:9:false:0:gui.xaero_default:false:0:0

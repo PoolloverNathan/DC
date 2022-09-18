@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type
+#
+waypoint:safety:S:-15:0:-12:12:false:0:gui.xaero_default:false:0:0
+waypoint:Visitor:V:-14:0:124:6:false:0:gui.xaero_default:false:0:0
+waypoint:Out of cell:O:-18:0:72:6:false:0:gui.xaero_default:false:0:0

@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+        "tag": "minecraft:planks"
+    },
+    "result": "minecraft:charcoal"
+}

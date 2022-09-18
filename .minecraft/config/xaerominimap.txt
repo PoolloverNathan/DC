@@ -49,7 +49,7 @@ worldMap:true
 terrainDepth:true
 terrainSlopes:2
 mainEntityAs:0
-blockTransparency:true
+blockTransparency:false
 waypointOpacityIngame:80
 waypointOpacityMap:90
 hideWorldNames:1
@@ -106,7 +106,7 @@ displayPacPlayers:true
 displayClaims:true
 displayCurrentClaim:true
 claimsOpacity:80
-interface:dummy:0:0:true:false:false:false
+interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false

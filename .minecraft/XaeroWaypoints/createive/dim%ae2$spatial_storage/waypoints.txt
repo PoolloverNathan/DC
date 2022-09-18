@@ -1,0 +1,5 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type
+#
+waypoint:Inmate:I:-829:65:194:2:false:0:gui.xaero_default:false:0:0
+waypoint:In cell:I:-320:65:192:1:false:0:gui.xaero_default:false:0:0
