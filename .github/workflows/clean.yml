@@ -28,13 +28,9 @@ jobs:
       # Runs a single command using the runners shell
       - name: Remove files
         run: rm -rf .minecraft/{saves,crash-reports,logs,screenshots,schematics,XaeroWaypoints*,options.txt,user*.json} natives 
-
-      # Runs a set of commands using the runners shell
-      - name: Zip up files
-        run: zip -r artifact.zip *
       
       - name: Upload artifact
         uses: actions/upload-artifact@v3.1.0
         with:
-          name: modpack.zip
-          path: artifact.zip
+          name: modpack
+          path: .
