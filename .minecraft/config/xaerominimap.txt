@@ -21,8 +21,8 @@ showCoords:true
 lockNorth:false
 zoom:0
 minimapSize:0
-chunkGrid:-1
-slimeChunks:false
+chunkGrid:0
+slimeChunks:true
 mapSafeMode:false
 minimapOpacity:100.0
 waypointsIngameIconScale:0
@@ -48,7 +48,7 @@ smoothDots:true
 worldMap:true
 terrainDepth:true
 terrainSlopes:2
-mainEntityAs:0
+mainEntityAs:2
 blockTransparency:false
 waypointOpacityIngame:80
 waypointOpacityMap:90
@@ -91,7 +91,7 @@ entityRadar:true
 adjustHeightForCarpetLikeBlocks:true
 autoConvertWaypointDistanceToKmThreshold:10000
 waypointDistancePrecision:1
-mainDotSize:2
+mainDotSize:1
 partialYTeleportation:true
 deleteReachedDeathpoints:true
 hideMinimapUnderScreen:true
@@ -106,6 +106,7 @@ displayPacPlayers:true
 displayClaims:true
 displayCurrentClaim:true
 claimsOpacity:80
+seed:Multiplayer_127.0.0.1/dim%0_mw$-1339959088:-5271938254157555556
 interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
