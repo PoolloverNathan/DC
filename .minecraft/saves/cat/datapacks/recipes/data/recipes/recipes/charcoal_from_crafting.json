@@ -2,11 +2,6 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         { "item": "minecraft:flint" },
-        { "item": "minecraft:flint" },
-        { "item": "minecraft:flint" },
-        { "item": "minecraft:apple" },
-        { "item": "minecraft:apple" },
-        { "item": "minecraft:sugar_cane" },
         { "tag": "minecraft:logs" },
         { "tag": "minecraft:logs" }
     ],
