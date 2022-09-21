@@ -1,0 +1,30 @@
+[18:58:14] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[18:58:14] [INFO ] Loaded script server_scripts:script.js in 0.003 s
+[18:58:14] [INFO ] Loaded 1/1 KubeJS server scripts in 0.024 s
+[18:58:14] [INFO ] Scripts loaded
+[18:58:14] [INFO ] Scanning recipes...
+[18:58:30] [WARN ] Failed to parse recipe 'minecraft:mangrove_wood[crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_log'
+[18:58:30] [WARN ] Failed to parse recipe minecraft:mangrove_wood[crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_log'
+[18:58:30] [WARN ] Failed to parse recipe 'slabs_stairs_to_block:slabs/mud_bricks[crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mud_brick_slab'
+[18:58:30] [WARN ] Failed to parse recipe slabs_stairs_to_block:slabs/mud_bricks[crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mud_brick_slab'
+[18:58:30] [WARN ] Failed to parse recipe 'slabs_stairs_to_block:stairs/mud_bricks[crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mud_brick_stairs'
+[18:58:30] [WARN ] Failed to parse recipe slabs_stairs_to_block:stairs/mud_bricks[crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mud_brick_stairs'
+[18:58:30] [WARN ] Failed to parse recipe 'recipes:calculator[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'jecalculation:item_calculator_math'
+[18:58:30] [WARN ] Failed to parse recipe recipes:calculator[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'jecalculation:item_calculator_math'
+[18:58:30] [WARN ] Failed to parse recipe 'minecraft:stripped_mangrove_wood[crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:stripped_mangrove_log'
+[18:58:30] [WARN ] Failed to parse recipe minecraft:stripped_mangrove_wood[crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:stripped_mangrove_log'
+[18:58:30] [WARN ] Failed to parse recipe 'minecraft:mangrove_stairs[crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_planks'
+[18:58:30] [WARN ] Failed to parse recipe minecraft:mangrove_stairs[crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_planks'
+[18:58:30] [WARN ] Failed to parse recipe 'minecraft:mud_brick_stairs[crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mud_bricks'
+[18:58:30] [WARN ] Failed to parse recipe minecraft:mud_brick_stairs[crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mud_bricks'
+[18:58:30] [WARN ] Failed to parse recipe 'slabs_stairs_to_block:slabs/mangrove_planks[crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_slab'
+[18:58:30] [WARN ] Failed to parse recipe slabs_stairs_to_block:slabs/mangrove_planks[crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_slab'
+[18:58:30] [WARN ] Failed to parse recipe 'slabs_stairs_to_block:stairs/mangrove_planks[crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_stairs'
+[18:58:30] [WARN ] Failed to parse recipe slabs_stairs_to_block:stairs/mangrove_planks[crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_stairs'
+[18:58:30] [WARN ] Failed to parse recipe 'minecraft:mangrove_trapdoor[crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_planks'
+[18:58:30] [WARN ] Failed to parse recipe minecraft:mangrove_trapdoor[crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:mangrove_planks'
+[18:58:30] [INFO ] Found 3448 recipes and 0 failed recipes in 1.002 s
+[18:58:30] [INFO ] Posted recipe events in 1.293 ms
+[18:58:31] [INFO ] Modified & removed recipes in 510.2 ms
+[18:58:31] [INFO ] Added recipes in 1.191 ms
+[18:58:31] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes

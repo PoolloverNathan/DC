@@ -1,0 +1,158 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 286
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = d3235c1f-a3c6-45e2-8fd1-83cb2f1305b91663798103142
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = 6fe31dcb-0630-41ec-93f4-80ae4909c3501663798103152
+  y = 452
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 611
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = c31924a2-19c5-476c-b70a-0cb5245347fc1663798103153
+  y = 474
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 523
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 8c6a5a39-fd3d-4629-b00f-f578d1c487931663798103153
+  y = 223
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 283
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = e3b2254a-2080-42b5-a757-b0df966bb5951663798103153
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = false
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = d0a99b7c-e799-4cd3-80de-7c28e4c6aa301663798103153
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = loadworld
+  label = Sandbox
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = 0
+  width = 200
+  actionid = 3533f552-08ff-437e-b148-3e3f10e52fc41663798138605
+  action = addbutton
+  y = 20
+  value = sandbox
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = joinserver
+  label = Join %serverplayercount:neverboredmc.anondns.net% players (%serverping:neverboredmc.anondns.net%ms)
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = 0
+  width = 200
+  actionid = c89ac4c2-294d-445f-976a-2e092a50000f1663798475429
+  action = addbutton
+  y = -4
+  value = neverboredmc.anondns.net:31232
+  height = 20
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  vr:value:serveronline = localhost:31232
+  buttonaction = joinserver
+  label = L
+  loopbackgroundanimations = true
+  vr:showif:serveronline = true
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
+  x = 204
+  width = 20
+  actionid = 81b31a65-8ff1-4c76-8d76-d1cef55edaaf1663798947958
+  action = addbutton
+  y = -4
+  value = localhost::31232
+  height = 20
+}
+
