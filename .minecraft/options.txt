@@ -70,7 +70,7 @@ skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
 joinedFirstServer:true
-hideBundleTutorial:false
+hideBundleTutorial:true
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
@@ -173,7 +173,7 @@ key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.c
 key_gui.xaero_minimap_settings:key.keyboard.y
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt
-soundCategory_master:0.0
+soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2022-09-21 19:14:47 -0400"
+    },
+    "done": false
+  },
   "create:red_signal": {
     "criteria": {
       "0": "2022-09-20 21:00:06 -0400"
@@ -23,15 +29,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/gray_seat_from_other_seat": {
-    "criteria": {
-      "has_seat": "2022-09-20 20:53:09 -0400"
-    },
-    "done": true
-  },
   "powder_to_glass:recipes/misc/blue_stained_glass": {
     "criteria": {
       "has_powder": "2022-09-20 19:33:03 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2022-09-20 20:53:09 -0400"
     },
     "done": true
   },
@@ -53,15 +59,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2022-09-20 19:36:25 -0400"
-    },
-    "done": true
-  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/prismarine_bricks": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2022-09-20 19:36:25 -0400"
     },
     "done": true
   },
@@ -91,21 +97,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2022-09-21 19:59:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-09-21 19:59:00 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/birch_planks": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:03 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2022-09-20 19:33:22 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2022-09-20 19:33:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2022-09-20 19:33:22 -0400"
     },
     "done": true
   },
@@ -127,15 +145,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2022-09-20 19:33:05 -0400"
-    },
-    "done": true
-  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/stone": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2022-09-20 19:33:05 -0400"
     },
     "done": true
   },
@@ -169,6 +187,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-09-20 19:33:05 -0400"
@@ -178,6 +208,18 @@
   "create:recipes/create.base/crafting/kinetics/pink_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-09-20 20:53:09 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
+    },
+    "done": true
+  },
+  "create:conductor": {
+    "criteria": {
+      "0": "2022-09-21 19:14:10 -0400"
     },
     "done": true
   },
@@ -193,16 +235,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2022-09-20 19:33:22 -0400"
-    },
-    "done": true
-  },
   "sandstone_dyeing:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_dye": "2022-09-20 19:33:03 -0400",
       "has_block": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-09-20 19:33:22 -0400"
     },
     "done": true
   },
@@ -224,9 +266,27 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-09-20 19:36:25 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2022-09-21 19:59:00 -0400"
     },
     "done": true
   },
@@ -260,9 +320,27 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/deepslate_tiles": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:03 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
     },
     "done": true
   },
@@ -298,9 +376,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/deepslate_tiles": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-09-21 19:59:00 -0400"
     },
     "done": true
   },
@@ -325,6 +415,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/smooth_sandstone": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:03 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
     },
     "done": true
   },
@@ -390,15 +486,21 @@
     },
     "done": true
   },
-  "slabs_stairs_to_block:recipes/building_blocks/stairs/cut_copper": {
+  "create:recipes/create.palettes/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
     "criteria": {
-      "has_stairs": "2022-09-20 19:33:03 -0400"
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
     },
     "done": true
   },
   "powder_to_glass:recipes/misc/cyan_stained_glass": {
     "criteria": {
       "has_powder": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/cut_copper": {
+    "criteria": {
+      "has_stairs": "2022-09-20 19:33:03 -0400"
     },
     "done": true
   },
@@ -411,6 +513,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/slabs/waxed_cut_copper": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
     },
     "done": true
   },
@@ -439,9 +547,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/track_station": {
     "criteria": {
       "has_item": "2022-09-20 20:49:51 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
     },
     "done": true
   },
@@ -469,6 +589,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2022-09-20 19:33:05 -0400"
@@ -481,9 +607,9 @@
     },
     "done": true
   },
-  "slabs_stairs_to_block:recipes/building_blocks/slabs/prismarine_bricks": {
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
-      "has_slab": "2022-09-20 19:33:03 -0400"
+      "has_stone_bricks": "2022-09-21 19:59:00 -0400"
     },
     "done": true
   },
@@ -491,6 +617,12 @@
     "criteria": {
       "has_fan": "2022-09-20 19:33:03 -0400",
       "has_coral": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/prismarine_bricks": {
+    "criteria": {
+      "has_slab": "2022-09-20 19:33:03 -0400"
     },
     "done": true
   },
@@ -573,15 +705,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2022-09-21 20:30:06 -0400"
+    },
+    "done": true
+  },
   "powder_to_glass:recipes/misc/magenta_stained_glass": {
     "criteria": {
       "has_powder": "2022-09-20 19:33:03 -0400"
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_deepslate_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_deepslate_brick_slab": "2022-09-21 19:39:58 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/green_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-09-20 20:53:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2022-09-21 19:59:00 -0400"
     },
     "done": true
   },
@@ -601,6 +751,12 @@
   "craftable_blackstone:recipes/building_blocks/coral/blackstone": {
     "criteria": {
       "has_basalt": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
     },
     "done": true
   },
@@ -640,6 +796,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/red_nether_bricks": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:03 -0400"
@@ -676,10 +838,22 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
+    },
+    "done": true
+  },
   "equestrian_crafting:recipes/combat/diamond_horse_armor": {
     "criteria": {
       "has_ingot": "2022-09-20 19:33:02 -0400",
       "has_saddle": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2022-09-21 19:59:00 -0400"
     },
     "done": true
   },
@@ -689,15 +863,15 @@
     },
     "done": true
   },
-  "vanillatweaks:villager_death": {
+  "create:recipes/create.palettes/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
-      "tick": "2022-09-20 19:05:08 -0400"
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
+  "vanillatweaks:villager_death": {
     "criteria": {
-      "has_stick": "2022-09-20 19:33:05 -0400"
+      "tick": "2022-09-20 19:05:08 -0400"
     },
     "done": true
   },
@@ -707,9 +881,9 @@
     },
     "done": true
   },
-  "slabs_stairs_to_block:recipes/building_blocks/stairs/polished_deepslate": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "has_stairs": "2022-09-20 19:33:03 -0400"
+      "has_stick": "2022-09-20 19:33:05 -0400"
     },
     "done": true
   },
@@ -722,6 +896,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/birch_planks": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/polished_deepslate": {
+    "criteria": {
+      "has_stairs": "2022-09-20 19:33:03 -0400"
     },
     "done": true
   },
@@ -787,6 +967,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/stone_bricks": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:02 -0400"
@@ -805,15 +991,27 @@
     },
     "done": true
   },
-  "uncraftable_ice:recipes/building_blocks/packed_ice": {
+  "create:recipes/create.palettes/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
-      "has_blue_ice": "2022-09-20 19:33:03 -0400"
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/brown_seat_from_other_seat": {
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_seat": "2022-09-20 20:53:09 -0400"
+      "has_stone_bricks": "2022-09-21 19:59:00 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
+    },
+    "done": true
+  },
+  "uncraftable_ice:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_blue_ice": "2022-09-20 19:33:03 -0400"
     },
     "done": true
   },
@@ -827,6 +1025,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/cobblestone": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:03 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2022-09-20 20:53:09 -0400"
     },
     "done": true
   },
@@ -848,6 +1052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2022-09-21 19:59:00 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/waxed_exposed_cut_copper": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:02 -0400"
@@ -857,6 +1067,12 @@
   "create:recipes/create.base/crafting/kinetics/magenta_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-09-20 20:53:09 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
     },
     "done": true
   },
@@ -878,12 +1094,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2022-09-20 19:36:25 -0400"
-    },
-    "done": true
-  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/smooth_stone": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:02 -0400"
@@ -893,6 +1103,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/waxed_exposed_cut_copper": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2022-09-20 19:36:25 -0400"
     },
     "done": true
   },
@@ -945,6 +1161,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
+    },
+    "done": true
+  },
   "dropper_to_dispenser:recipes/building_blocks/dropper_to_dispenser/dispenser_alternate": {
     "criteria": {
       "has_string": "2022-09-20 19:33:03 -0400",
@@ -989,15 +1211,39 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2022-09-20 19:33:22 -0400"
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2022-09-21 20:30:06 -0400"
+    },
+    "done": true
+  },
   "powder_to_glass:recipes/misc/light_blue_stained_glass": {
     "criteria": {
       "has_powder": "2022-09-20 19:33:03 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
     },
     "done": true
   },
@@ -1011,6 +1257,12 @@
     "criteria": {
       "has_dye": "2022-09-20 19:33:03 -0400",
       "has_block": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
     },
     "done": true
   },
@@ -1056,6 +1308,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2022-09-20 19:33:22 -0400"
@@ -1065,6 +1323,12 @@
   "powder_to_glass:recipes/misc/purple_stained_glass": {
     "criteria": {
       "has_powder": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
     },
     "done": true
   },
@@ -1129,6 +1393,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
+    },
+    "done": true
+  },
   "flint_to_gravel:recipes/building_blocks/gravel": {
     "criteria": {
       "has_flint": "2022-09-20 19:33:03 -0400"
@@ -1152,6 +1422,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2022-09-20 19:36:25 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
     },
     "done": true
   },
@@ -1199,9 +1475,9 @@
     },
     "done": true
   },
-  "slabs_stairs_to_block:recipes/building_blocks/stairs/weathered_cut_copper": {
+  "create:recipes/create.palettes/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
-      "has_stairs": "2022-09-20 19:33:03 -0400"
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
     },
     "done": true
   },
@@ -1209,6 +1485,12 @@
     "criteria": {
       "has_fan": "2022-09-20 19:33:03 -0400",
       "has_coral": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/weathered_cut_copper": {
+    "criteria": {
+      "has_stairs": "2022-09-20 19:33:03 -0400"
     },
     "done": true
   },
@@ -1231,9 +1513,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
+  "create:recipes/create.palettes/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
-      "has_stone": "2022-09-20 19:36:25 -0400"
+      "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
     },
     "done": true
   },
@@ -1243,15 +1525,21 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/item_vault": {
+  "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
-      "has_item": "2022-09-20 20:51:45 -0400"
+      "has_stone": "2022-09-20 19:36:25 -0400"
     },
     "done": true
   },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/polished_diorite": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2022-09-20 20:51:45 -0400"
     },
     "done": true
   },
@@ -1273,6 +1561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2022-09-21 20:10:13 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/blackstone": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:02 -0400"
@@ -1285,9 +1579,15 @@
     },
     "done": true
   },
-  "slabs_stairs_to_block:recipes/building_blocks/stairs/diorite": {
+  "create:recipes/create.palettes/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
-      "has_stairs": "2022-09-20 19:33:03 -0400"
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
     },
     "done": true
   },
@@ -1295,6 +1595,12 @@
     "criteria": {
       "has_fan": "2022-09-20 19:33:03 -0400",
       "has_coral": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/diorite": {
+    "criteria": {
+      "has_stairs": "2022-09-20 19:33:03 -0400"
     },
     "done": true
   },
