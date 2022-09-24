@@ -126,7 +126,7 @@ customization {
   orientation = element
   restartbackgroundanimations = true
   buttonaction = joinserver
-  label = Join %serverplayercount:neverboredmc.anondns.net% players (%serverping:neverboredmc.anondns.net%ms)
+  label = Join %serverplayercount:neverboredmc.anondns.net:31232% players (%serverping:neverboredmc.anondns.net:31232%ms)
   loopbackgroundanimations = true
   orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_multiplayer_button
   x = 0
@@ -152,7 +152,7 @@ customization {
   actionid = 81b31a65-8ff1-4c76-8d76-d1cef55edaaf1663798947958
   action = addbutton
   y = -4
-  value = localhost::31232
+  value = localhost:31232
   height = 20
 }
 

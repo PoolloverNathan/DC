@@ -1,4 +1,16 @@
 {
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass": {
+    "criteria": {
+      "has_dye": "2022-09-21 20:42:27 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2022-09-21 20:42:38 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/mangrove_planks": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:03 -0400"
@@ -109,6 +121,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-09-22 16:27:21 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/birch_planks": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:03 -0400"
@@ -157,6 +175,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2022-09-21 20:42:27 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-09-20 19:37:55 -0400"
@@ -193,6 +217,12 @@
     },
     "done": true
   },
+  "create:train_portal": {
+    "criteria": {
+      "0": "2022-09-22 16:47:12 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
@@ -217,6 +247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2022-09-21 20:42:38 -0400"
+    },
+    "done": true
+  },
   "create:conductor": {
     "criteria": {
       "0": "2022-09-21 19:14:10 -0400"
@@ -226,6 +262,12 @@
   "vanillatweaks:armor_statues": {
     "criteria": {
       "tick": "2022-09-20 19:05:08 -0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2022-09-21 20:42:27 -0400"
     },
     "done": true
   },
@@ -278,9 +320,21 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
+    "criteria": {
+      "has_dye": "2022-09-21 20:42:27 -0400"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2022-09-21 19:10:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-09-22 16:21:48 -0400"
     },
     "done": true
   },
@@ -299,6 +353,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/slabs/granite": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2022-09-22 16:23:44 -0400"
     },
     "done": true
   },
@@ -344,6 +404,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/glass_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2022-09-21 20:42:27 -0400"
+    },
+    "done": true
+  },
   "equestrian_crafting:recipes/misc/diamond_horse_armor": {
     "criteria": {
       "has_ingot": "2022-09-20 19:33:03 -0400",
@@ -363,6 +429,12 @@
       "has_stick": "2022-09-20 19:33:05 -0400"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
+    "criteria": {
+      "has_dye": "2022-09-21 20:42:27 -0400"
+    },
+    "done": false
   },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/polished_deepslate": {
     "criteria": {
@@ -504,6 +576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-09-21 20:42:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-09-20 19:33:22 -0400"
@@ -613,6 +691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-09-22 16:21:48 -0400"
+    },
+    "done": true
+  },
   "coral_blocks:recipes/building_blocks/coral/horn_coral_block": {
     "criteria": {
       "has_fan": "2022-09-20 19:33:03 -0400",
@@ -638,6 +722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2022-09-22 16:23:44 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/prismarine": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:03 -0400"
@@ -647,6 +737,18 @@
   "slabs_stairs_to_block:recipes/building_blocks/slabs/cobbled_deepslate": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-09-22 16:21:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_blue_dye": "2022-09-21 20:42:27 -0400"
     },
     "done": true
   },
@@ -705,11 +807,23 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-09-22 16:27:21 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2022-09-21 20:30:06 -0400"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/candle": {
+    "criteria": {
+      "has_dye": "2022-09-21 20:42:27 -0400"
+    },
+    "done": false
   },
   "powder_to_glass:recipes/misc/magenta_stained_glass": {
     "criteria": {
@@ -728,6 +842,12 @@
       "has_seat": "2022-09-20 20:53:09 -0400"
     },
     "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/terracotta": {
+    "criteria": {
+      "has_dye": "2022-09-21 20:42:27 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
@@ -790,6 +910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-09-21 20:42:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2022-09-20 19:33:22 -0400"
@@ -799,6 +925,12 @@
   "create:recipes/create.palettes/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2022-09-21 19:40:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-09-22 16:21:48 -0400"
     },
     "done": true
   },
@@ -817,6 +949,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/polished_diorite": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2022-09-21 20:42:38 -0400"
     },
     "done": true
   },
@@ -905,6 +1043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-09-21 20:42:38 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/andesite": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:03 -0400"
@@ -937,6 +1081,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2022-09-21 20:42:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-09-20 19:36:25 -0400"
@@ -946,6 +1096,12 @@
   "vanillatweaks:item_averages": {
     "criteria": {
       "tick": "2022-09-20 19:05:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2022-09-21 20:42:33 -0400"
     },
     "done": true
   },
@@ -1091,6 +1247,12 @@
   "vanillatweaks:tpa": {
     "criteria": {
       "tick": "2022-09-20 19:05:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2022-09-22 16:48:01 -0400"
     },
     "done": true
   },
@@ -1302,6 +1464,12 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/concrete_powder": {
+    "criteria": {
+      "has_dye": "2022-09-21 20:42:27 -0400"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2022-09-20 19:33:22 -0400"
@@ -1323,6 +1491,12 @@
   "powder_to_glass:recipes/misc/purple_stained_glass": {
     "criteria": {
       "has_powder": "2022-09-20 19:33:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-09-22 16:23:44 -0400"
     },
     "done": true
   },
@@ -1350,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_candle": {
+    "criteria": {
+      "has_light_blue_dye": "2022-09-21 20:42:27 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/blackstone": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:02 -0400"
@@ -1368,9 +1548,21 @@
     },
     "done": true
   },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/glazed_terracotta": {
+    "criteria": {
+      "has_dye": "2022-09-21 20:42:27 -0400"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2022-09-20 19:33:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2022-09-21 20:42:38 -0400"
     },
     "done": true
   },
@@ -1390,6 +1582,12 @@
     "criteria": {
       "has_fan": "2022-09-20 19:33:03 -0400",
       "has_coral": "2022-09-20 19:33:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_blue_dye": "2022-09-21 20:42:38 -0400"
     },
     "done": true
   },
@@ -1434,6 +1632,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2022-09-20 19:06:49 -0400",
+      "minecraft:dripstone_caves": "2022-09-22 16:36:49 -0400",
       "minecraft:forest": "2022-09-20 19:06:20 -0400",
       "minecraft:plains": "2022-09-20 19:05:08 -0400"
     },
@@ -1531,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2022-09-21 20:42:38 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/slabs/polished_diorite": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:02 -0400"
@@ -1540,6 +1745,12 @@
   "create:recipes/create.base/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2022-09-20 20:51:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-09-22 16:21:48 -0400"
     },
     "done": true
   },
@@ -1564,6 +1775,24 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2022-09-21 20:10:13 -0400"
+    },
+    "done": true
+  },
+  "universal_dyeing:recipes/building_blocks/universal_dyeing/stained_glass_pane": {
+    "criteria": {
+      "has_dye": "2022-09-21 20:42:27 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2022-09-21 20:42:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-09-22 16:21:48 -0400"
     },
     "done": true
   },
@@ -1640,6 +1869,19 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2022-09-21 20:42:38 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2022-09-22 16:31:14 -0400",
+      "minecraft:nether_wastes": "2022-09-22 16:27:21 -0400"
+    },
+    "done": false
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/waxed_cut_copper": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:03 -0400"
@@ -1682,6 +1924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_light_blue_dye": "2022-09-21 20:42:27 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/blue_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2022-09-20 20:53:09 -0400"
@@ -1706,6 +1954,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_light_blue": {
+    "criteria": {
+      "has_dyes/black": "2022-09-21 20:42:27 -0400"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/mossy_stone_bricks": {
     "criteria": {
       "has_stairs": "2022-09-20 19:33:03 -0400"
@@ -1727,6 +1981,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/slabs/warped_planks": {
     "criteria": {
       "has_slab": "2022-09-20 19:33:03 -0400"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2022-09-21 20:42:38 -0400"
     },
     "done": true
   },
