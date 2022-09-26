@@ -72,7 +72,7 @@
 	#Maximum allowed speed of a configurable motor.
 	#[@cui:RequiresReload:both]
 	#Range: > 64
-	maxMotorSpeed = 256
+	maxMotorSpeed = 8192
 	# 
 	#[in Revolutions per Minute]
 	#Added rotation speed by a water wheel when at least one flow is present.
@@ -152,7 +152,7 @@
 		# 
 		#Maximum value of a chassis attachment range.
 		#Range: > 1
-		maxChassisRange = 16
+		maxChassisRange = 48
 		# 
 		#Maximum amount of extension poles behind a Mechanical Piston.
 		#Range: > 1
@@ -474,17 +474,17 @@
 		#[in Blocks/Second]
 		#The top speed of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainTopSpeed = 28.0
+		trainTopSpeed = 280.0
 		# 
 		#[in Blocks/Second]
 		#The top speed of Trains during a turn.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainTurningTopSpeed = 14.0
+		trainTurningTopSpeed = 280.0
 		# 
 		#[in Blocks/Second²]
 		#The acceleration of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainAcceleration = 3.0
+		trainAcceleration = 28.0
 
 	# 
 	#Powered Trains
@@ -493,15 +493,15 @@
 		#[in Blocks/Second]
 		#The top speed of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTopSpeed = 40.0
+		poweredTrainTopSpeed = 48.0
 		# 
 		#[in Blocks/Second]
 		#The top speed of powered Trains during a turn.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTurningTopSpeed = 20.0
+		poweredTrainTurningTopSpeed = 48.0
 		# 
 		#[in Blocks/Second²]
 		#The acceleration of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainAcceleration = 3.0
+		poweredTrainAcceleration = 18.0
 

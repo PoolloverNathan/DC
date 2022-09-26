@@ -1,0 +1,16 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type
+#
+waypoint:gui.xaero_deathpoint_old:D:-158:117:-259:0:false:2:gui.xaero_default:false:0:1
+waypoint:gui.xaero_deathpoint_old:D:-33:86:92:0:false:2:gui.xaero_default:false:0:1
+waypoint:gui.xaero_deathpoint_old:D:52:73:-208:0:false:2:gui.xaero_default:false:0:1
+waypoint:Meteor:M:61:74:-204:6:false:0:gui.xaero_default:false:0:0
+waypoint:gui.xaero_deathpoint_old:D:-3:105:-35:0:false:2:gui.xaero_default:false:0:1
+waypoint:gui.xaero_deathpoint_old:D:82:-12:-37:0:false:2:gui.xaero_default:false:0:1
+waypoint:why:W:81:-12:-34:10:false:0:gui.xaero_default:false:0:0
+waypoint:abandoned mine:A:88:0:-11:1:false:0:gui.xaero_default:false:0:0
+waypoint:gui.xaero_deathpoint_old:D:-58:84:-15:0:false:2:gui.xaero_default:false:0:1
+waypoint:gui.xaero_deathpoint_old:D:-229:113:-175:0:false:2:gui.xaero_default:false:0:1
+waypoint:gui.xaero_deathpoint_old:D:41:102:-42:0:false:2:gui.xaero_default:false:0:1
+waypoint:out of a ravine:O:-97:108:-38:12:false:0:gui.xaero_default:false:0:0
+waypoint:gui.xaero_deathpoint_old:D:31:104:-40:0:false:2:gui.xaero_default:false:0:1

@@ -1,7 +1,7 @@
 type = last_world
 
 last_world {
-  is_server = true
-  world = 127.0.0.1:31232
+  is_server = false
+  world = /home/nathan/.local/share/multimc/instances/duckingcreate/.minecraft/saves/createive
 }
 

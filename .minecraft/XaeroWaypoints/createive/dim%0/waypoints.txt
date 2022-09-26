@@ -1,6 +1,7 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type
 #
+waypoint:social distanced cannon:S:-91:0:62:7:false:0:gui.xaero_default:false:0:0
 waypoint:multisafety:M:-199:0:186:8:false:0:gui.xaero_default:false:0:0
 waypoint:safety:S:-15:0:-12:12:false:0:gui.xaero_default:false:0:0
 waypoint:Visitor:V:-14:0:124:6:false:0:gui.xaero_default:false:0:0
