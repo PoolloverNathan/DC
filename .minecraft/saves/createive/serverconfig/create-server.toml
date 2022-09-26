@@ -402,11 +402,11 @@
 		# 
 		#Amount of game ticks between shots of the cannon. Higher => Slower
 		#Range: > 1
-		schematicannonDelay = 10
+		schematicannonDelay = 1
 		# 
 		#Amount of block positions per tick scanned by a running cannon. Higher => Faster
 		#Range: > 1
-		schematicannonSkips = 10
+		schematicannonSkips = 2048
 		# 
 		#% of Schematicannon's Fuel filled by 1 Gunpowder.
 		#Range: 0.0 ~ 100.0
@@ -484,7 +484,7 @@
 		#[in Blocks/Second²]
 		#The acceleration of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainAcceleration = 28.0
+		trainAcceleration = 3.0
 
 	# 
 	#Powered Trains
@@ -493,15 +493,15 @@
 		#[in Blocks/Second]
 		#The top speed of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTopSpeed = 48.0
+		poweredTrainTopSpeed = 400.0
 		# 
 		#[in Blocks/Second]
 		#The top speed of powered Trains during a turn.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainTurningTopSpeed = 48.0
+		poweredTrainTurningTopSpeed = 400.0
 		# 
 		#[in Blocks/Second²]
 		#The acceleration of powered Trains.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		poweredTrainAcceleration = 18.0
+		poweredTrainAcceleration = 3.0
 

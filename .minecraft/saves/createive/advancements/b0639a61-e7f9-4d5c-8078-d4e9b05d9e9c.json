@@ -2960,6 +2960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-09-26 09:05:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-09-17 21:43:41 -0400"
@@ -3821,6 +3827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-09-26 09:05:31 -0400"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/framed_glass_trapdoor": {
     "criteria": {
       "has_item": "2022-09-18 10:23:38 -0400"
@@ -4061,6 +4073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-09-26 09:05:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2022-09-25 11:57:30 -0400"
@@ -4205,6 +4223,12 @@
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
     "criteria": {
       "has_cut_copper": "2022-09-18 11:17:06 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-09-26 09:05:31 -0400"
     },
     "done": true
   },
@@ -4392,6 +4416,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2022-09-18 12:06:22 -0400"
+    },
+    "done": true
+  },
+  "create:long_bend": {
+    "criteria": {
+      "0": "2022-09-26 10:57:05 -0400"
     },
     "done": true
   },
@@ -4665,6 +4695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-09-26 09:05:31 -0400"
+    },
+    "done": true
+  },
   "create:linked_controller": {
     "criteria": {
       "0": "2022-09-17 21:06:19 -0400"
@@ -4686,6 +4722,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-09-17 21:39:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-09-26 09:05:31 -0400"
     },
     "done": true
   },
@@ -4755,15 +4797,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2022-09-25 19:59:18 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2022-09-25 16:32:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2022-09-25 19:59:18 -0400"
     },
     "done": true
   },
